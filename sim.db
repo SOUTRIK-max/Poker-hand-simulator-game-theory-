@@ -1,0 +1,46 @@
+── Database Summary ──
+  Total rounds  :     10,000
+  Total hands   :     40,000
+  Ties          :        513  (5.130%)
+
+  ── Hand Frequency ──
+  Hand                       Seen      Freq
+  ──────────────────────────────────────────
+  One Pair                 17,513   43.782%
+  Two Pair                  9,397   23.492%
+  High Card                 7,106   17.765%
+  Three of a Kind           1,914    4.785%
+  Straight                  1,708    4.270%
+  Flush                     1,252    3.130%
+  Full House                1,047    2.618%
+  Four of a Kind               57    0.142%
+  Straight Flush                5    0.013%
+  Royal Flush                   1    0.003%
+
+  ── Win Rate per Hand ──
+  Hand                     Win rate
+  ───────────────────────────────────
+  Straight Flush            100.00%
+  Royal Flush               100.00%
+  Four of a Kind             89.47%
+  Full House                 86.06%
+  Straight                   83.08%
+  Flush                      70.37%
+  Three of a Kind            59.61%
+  Two Pair                   38.33%
+  One Pair                   14.63%
+  High Card                   1.06%
+
+  ── Winning Hand Distribution ──
+  Hand                       Wins     Share
+  ──────────────────────────────────────────
+  Two Pair                  3,218   33.920%
+  One Pair                  2,341   24.676%
+  Straight                  1,101   11.605%
+  Three of a Kind           1,083   11.416%
+  Flush                       865    9.118%
+  Full House                  763    8.043%
+  High Card                    59    0.622%
+  Four of a Kind               51    0.538%
+  Straight Flush                5    0.053%
+  Royal Flush                   1    0.011%
