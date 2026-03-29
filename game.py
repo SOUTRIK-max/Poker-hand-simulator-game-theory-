@@ -162,4 +162,4 @@ if __name__ == "__main__":
     result = play_round(num_players=3)
     record = round_to_record(result)
     for k, v in record.items():
-        print(f"  {k:<22} {v}")
+        print(f"  {k:<22} {v}") 
