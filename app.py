@@ -1,7 +1,7 @@
 """
 app.py — Streamlit web UI for the Poker Hand Probability Simulator
 Project: Game Theory: Poker Hand Probability Simulator
-Students: Kumar Shaiv Sah / Soutrik Ghosh (2428010002 / 2428010003)
+Students: Soutrik Ghosh / Kumar shaiv sah (2428010002 / 2428010003)
 
 Run with:
     streamlit run app.py
